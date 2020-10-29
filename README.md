@@ -11,3 +11,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saranyatavva)
 
+![counter](https://en8d43bolzida7x.m.pipedream.net)
