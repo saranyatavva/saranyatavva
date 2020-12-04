@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Machine Learning, Web development
 - 🌱 I’m currently learning DBMS, DataStructures and Algorithms
-- 👯 
 - 🤔 I’m looking for Internships
 
 
