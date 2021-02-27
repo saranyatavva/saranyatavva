@@ -1,8 +1,9 @@
-### Hi there, I'm Akhila 👋
+### Hi there, I'm Akhila Priya👋
 
 - 🔭 I’m currently working on Machine Learning, Web development
-- 🌱 I’m currently learning DBMS, DataStructures and Algorithms
-- 🤔 I’m looking for Internships
+- 🌱 I’m currently learning DataStructures and Algorithms
+-  Looking for Internships
+-  ☺ Happy to collaborate on Machine Learning projects
 
 
 
